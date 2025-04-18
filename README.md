@@ -1,6 +1,3 @@
-# texas-class
-
-
 
 ## Getting started
 
